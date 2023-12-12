@@ -1,62 +1,62 @@
 ---
 # Display name
-title: 吳健雄
+title: 薛永杰
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xue Yong Jie
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: YongJie
+last_name: Xue
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥎
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Phd candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Nebraska-Lincoln
+    url: https://https://www.unl.edu//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include autonomous driving, robotics and software development.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Full-stack Development
+  - Machine Learning
+  - Computer Vision
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: niversity of Nebraska-Lincoln
+      year: 2022 - Current
+    - course: MS in Control Science and Engineering
+      institution: University of Shanghai for Science and Technology
+      year: 2022
+    # - course: BSc in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python, Javascript
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: HTML, CSS
         description: ''
         percent: 100
         icon: chart-line
@@ -70,17 +70,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Photography/Travelling
         description: ''
         percent: 80
         icon: camera-retro
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yongjie Xue is a PhD candidate of computer science at the University of Nebraska-Lincoln. His research interests include autonomous driving, robotics. He also interests in software development. 
 {style="text-align: justify;"}
