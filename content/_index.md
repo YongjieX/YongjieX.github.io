@@ -101,7 +101,7 @@ sections:
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/T9PRL7D95QKH
           date_end: '01/08/2024'
           date_start: '06/25/2023'
-          description: HTML, UI/UX design, JavaScript, Cascading Style Sheets (CSS), React.
+          description: 'HTML, UI/UX design, JavaScript, Cascading Style Sheets (CSS), React.'
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
@@ -110,7 +110,7 @@ sections:
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/RE6AU84Y85YW
           date_end: ''
           date_start: '06/25/2023'
-          description: database administration, MySQL, Database (DBMS).
+          description: 'database administration, MySQL, Database (DBMS).'
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
