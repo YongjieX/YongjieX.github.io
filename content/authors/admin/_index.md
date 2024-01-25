@@ -29,7 +29,8 @@ bio: My research interests include autonomous driving, robotics and software dev
 
 # Interests to show in About widget
 interests:
-  - Full-stack Development
+  - Software Development
+  - Website Development
   - Machine Learning
   - Computer Vision
 
