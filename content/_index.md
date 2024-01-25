@@ -100,22 +100,22 @@ sections:
       items:
         - certificate_url: https://coursera.org/share/10006b01a6ab234577704a33f6df96b5
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+          date_start: '2023-06-25'
+          description: 'Unit Testing, React (Web Framework), Front-End Web Development'
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Advanced React
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://coursera.org/share/913384594e9d86e0abddf4a56682a414
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2023-06-25'
+          description: HTML, UI/UX, design, JavaScrip, Cascading Style Sheets (CSS), React
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Meta Front-End Developer
+          url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
