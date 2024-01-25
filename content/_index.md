@@ -98,23 +98,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/T9PRL7D95QKH
+          date_end: '01/08/2024'
+          date_start: '06/25/2023'
+          description: HTML, UI/UX design, JavaScript, Cascading Style Sheets (CSS), React.
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Meta Front-End Developer
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/RE6AU84Y85YW
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          date_start: '06/25/2023'
+          description: database administration, MySQL, Database (DBMS).
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Introduction to Databases for Back-End Development
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
