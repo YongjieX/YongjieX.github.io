@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Phd candidate
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: MS in Computer Science
       institution: niversity of Nebraska-Lincoln
       year: 2022 - Current
     - course: MS in Control Science and Engineering
