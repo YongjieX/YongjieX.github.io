@@ -228,20 +228,20 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
+        street: 1400 R Street
         city: Lincoln
         region: Ne
         postcode: '68503'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Avery Hall 104
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '40.812340'
+        longitude: '-96.701180'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
