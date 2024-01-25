@@ -99,22 +99,22 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/T9PRL7D95QKH
-          date_end: '01/08/2024'
-          date_start: '06/25/2023'
-          description: 'HTML, UI/UX design, JavaScript, Cascading Style Sheets (CSS), React.'
+          date_end: ''
+          date_start: '2021-01-25'
+          description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Meta Front-End Developer
+          title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/RE6AU84Y85YW
+        - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '06/25/2023'
-          description: 'database administration, MySQL, Database (DBMS).'
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
           icon: edx
           organization: edX
           organization_url: https://www.edx.org
-          title: Introduction to Databases for Back-End Development
+          title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
