@@ -72,9 +72,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Led the development and successful implementation of an innovative user interface using the PyQt5 framework, integrated with the Tobii API. This work facilitated contactless operation in a laboratory setting and introduced a new standard for user interaction in scientific environments.
+              * Collaborated with the Quality Assurance Department to develop Python-based Automated Packaging Software, achieving a 90% reduction in software packaging and release time, significantly improving the department’s workflow.
+              * Independently designed and executed a deep learning model to enhance the quality of medical images. This model, when integrated into the mobile C-arm pipeline, resulted in a 20% improvement in image quality, contributing to advancements in medical diagnostics and imaging techniques.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
