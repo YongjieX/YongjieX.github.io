@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: MS in Computer Science
-      institution: niversity of Nebraska-Lincoln
+      institution: University of Nebraska-Lincoln
       year: 2022 - Current
     - course: MS in Control Science and Engineering
       institution: University of Shanghai for Science and Technology
@@ -120,6 +120,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hello! I am a graduate student of computer science at the University of Nebraska-Lincoln. I am a software developer, data professional, and a lifelong learner. I am passionate about working on impactful projects, plus an AI enthusiast. Research published in ICC and SEC. Outside of tech, I enjoy sports, reading, and movies with family and friends. Let's connect to navigate the dynamic world of computing together!
 
-Yongjie Xue is a PhD candidate of computer science at the University of Nebraska-Lincoln. His research interests include autonomous driving, robotics. He also interests in software development. 
+
 {style="text-align: justify;"}
