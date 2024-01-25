@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-01-24
 type: landing
 
 sections:
@@ -90,13 +90,8 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
       subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+   
       items:
         - certificate_url: https://coursera.org/share/10006b01a6ab234577704a33f6df96b5
           date_end: ''
@@ -116,15 +111,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Meta Front-End Developer
           url: ''
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   icon: datacamp
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
+     
     design:
       columns: '2'
   # - block: collection
