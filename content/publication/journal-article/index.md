@@ -18,7 +18,7 @@ publishDate: "2023-09--01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "IEEE International Conference on Communications"
 publication_short: ""
 
 abstract: Crowdsourcing data from connected and automated vehicles (CAVs) is a cost-efficient way to achieve high-definition maps with up-to-date transient road information. Achieving the map with deterministic latency performance is, however, challenging due to the unpredictable resource competition and distributional resource demands. In this paper, we propose CoMap, a new crowdsourcing high definition (HD) map to minimize the monetary cost of network resource usage while satisfying the percentile requirement of end-to-end latency. We design a novel CROP algorithm to learn the resource demands of CAV offloading, optimize offloading decisions, and proactively allocate temporal network resources in a fully distributed manner. In particular, we create a prediction model to estimate the uncertainty of resource demands based on Bayesian neural networks and develop a utilization balancing scheme to resolve the imbalanced resource utilization in individual infrastructures. We evaluate the performance of CoMap with extensive simulations in an automotive edge computing network simulator. The results show that CoMap reduces up to 80.4% average resource usage as compared to existing solutions.
@@ -63,12 +63,12 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}} -->
 <!-- Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software. -->
-{{% /callout %}}
+<!-- {{% /callout %}} -->
 
-{{% callout note %}}
+<!-- {{% callout note %}} -->
 <!-- Create your slides in Markdown - click the *Slides* button to check out the example. -->
-{{% /callout %}}
+<!-- {{% /callout %}} -->
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
