@@ -25,7 +25,7 @@ organizations:
     url: https://https://www.unl.edu//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include autonomous driving, robotics and software development.
+bio: My research interests include Software Development, Website Development, Machine Learning, Computer Vision.
 
 # Interests to show in About widget
 interests:
