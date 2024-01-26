@@ -75,14 +75,14 @@ sections:
               * Led the development and successful implementation of an innovative user interface using the PyQt5 framework, integrated with the Tobii API. This work facilitated contactless operation in a laboratory setting and introduced a new standard for user interaction in scientific environments.
               * Collaborated with the Quality Assurance Department to develop Python-based Automated Packaging Software, achieving a 90% reduction in software packaging and release time, significantly improving the department’s workflow.
               * Independently designed and executed a deep learning model to enhance the quality of medical images. This model, when integrated into the mobile C-arm pipeline, resulted in a 20% improvement in image quality, contributing to advancements in medical diagnostics and imaging techniques.
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Teaching Assistant
+          company: University of Nebraska-Lincoln
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Lincoln, NE
+          date_start: '2023-01-01'
+          date_end: ''
+          description: Taught CSCE 231 Computer Systems Engineering \ CSCE 432/832 - Design and Analysis of Algorithms \ CSCE 464/864 - Internet Systems and Programming
     design:
       columns: '2'
   - block: accomplishments
