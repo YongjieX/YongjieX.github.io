@@ -52,19 +52,19 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python, Javascript
+      - name: Python, JavaScript, C++, TypeScript
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: HTML, CSS
+      - name: Git, React.js,  Django,  Postman, HTML, CSS
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: SQL, GraphQL, Jest
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
