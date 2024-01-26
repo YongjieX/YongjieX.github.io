@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 薛永杰
+title: Xue Yong Jie
 
 # Name pronunciation (optional)
-name_pronunciation: Xue Yong Jie
+# name_pronunciation: 薛 永 杰 
 
 # Full name (for SEO)
 first_name: YongJie
