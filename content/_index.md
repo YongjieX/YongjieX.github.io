@@ -70,7 +70,7 @@ sections:
           date_start: '2023-01-01'
           date_end: ''
           description: Taught CSCE 231 Computer Systems Engineering \ CSCE 432/832 - Design and Analysis of Algorithms \ CSCE 464/864 - Internet Systems and Programming
-        - title: Software Development Engineer 
+        - title: Software Developer
           company: Siemens Shanghai Medical Equipment Ltd
           company_url: ''
           company_logo: org-gc
@@ -80,9 +80,11 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Led the development and successful implementation of an innovative user interface using the PyQt5 framework, integrated with the Tobii API. This work facilitated contactless operation in a laboratory setting and introduced a new standard for user interaction in scientific environments.
-              * Collaborated with the Quality Assurance Department to develop Python-based Automated Packaging Software, achieving a 90% reduction in software packaging and release time, significantly improving the department’s workflow.
-              * Independently designed and executed a deep learning model to enhance the quality of medical images. This model, when integrated into the mobile C-arm pipeline, resulted in a 20% improvement in image quality, contributing to advancements in medical diagnostics and imaging techniques.
+              * Led the development and successful implementation of an innovative user interface using HTML5 + CSS, integrated with the Tobii API. This work facilitated contactless operation in a laboratory setting and introduced a new standard for user interaction in scientific environments.
+              * Develop Automated Packaging Software using Python, achieving a 90% reduction in software packaging and release time, significantly improving the department’s workflow.
+              * Designed and executed a deep learning model to enhance the quality of medical images. This model, when integrated into the mobile C-arm pipeline, resulted in a 20% improvement in image quality, contributing to intra-procedural confidence during embolizations.
+              
+            
         
     design:
       columns: '2'
