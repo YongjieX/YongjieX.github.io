@@ -40,9 +40,9 @@ education:
     - course: MS in Computer Science
       institution: University of Nebraska-Lincoln
       year: 2022 - Current
-    - course: MS in Control Science and Engineering
-      institution: University of Shanghai for Science and Technology
-      year: 2022
+    # - course: MS in Control Science and Engineering
+    #   institution: University of Shanghai for Science and Technology
+    #   year: 2022
     # - course: BSc in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2008
