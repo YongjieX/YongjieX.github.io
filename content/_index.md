@@ -70,7 +70,7 @@ sections:
           date_start: '2023-01-01'
           date_end: ''
           description: Taught CSCE 231 Computer Systems Engineering \ CSCE 432/832 - Design and Analysis of Algorithms \ CSCE 464/864 - Internet Systems and Programming
-        - title: Software Engineer 
+        - title: Software Development Engineer 
           company: Siemens Shanghai Medical Equipment Ltd
           company_url: ''
           company_logo: org-gc
