@@ -70,12 +70,12 @@ sections:
           date_start: '2023-01-01'
           date_end: ''
           description: Taught CSCE 231 Computer Systems Engineering \ CSCE 432/832 - Design and Analysis of Algorithms \ CSCE 464/864 - Internet Systems and Programming
-        - title: Software Engineer Intern
+        - title: Software Engineer 
           company: Siemens Shanghai Medical Equipment Ltd
           company_url: ''
           company_logo: org-gc
           location: Shanghai
-          date_start: '2021-08-01'
+          date_start: '2019-08-01'
           date_end: '2022-04-01'
           description: |2-
               Responsibilities include:

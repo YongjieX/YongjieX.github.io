@@ -62,7 +62,7 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL, GraphQL, Jest
+      - name: SQL, GraphQL, Jest, Selenium
         description: ''
         percent: 80
         icon: database
